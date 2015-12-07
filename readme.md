@@ -1,4 +1,5 @@
-# Parallax On The Web - Project Files
+# Forked From DevTips/Parallax-On-The-WebDevTips-  
+Project Files
 
 Video Series [ for free on YouTube](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IyCbhul-PdeiDqmh4ooJzk) on the [DevTips](https://www.youtube.com/user/DevTipsForDesigners) Channel
 
